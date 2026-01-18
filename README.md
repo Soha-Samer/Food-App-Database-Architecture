@@ -1,4 +1,3 @@
-# Food-App-Database-Architecture
 
 # Food Pickup Mobile App - Database Architecture 🍔
 
